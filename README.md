@@ -1,4 +1,4 @@
-# Quera Algorithmic Problem Solving
+# Algorithmic Problem Solving
 
 A curated collection of solutions, optimizations, and analyses for algorithmic challenges from the Quera platform. This repository documents a disciplined, continuous journey in algorithmic thinking, data structures, and efficient software implementation.
 
